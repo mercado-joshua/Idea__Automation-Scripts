@@ -1,0 +1,48 @@
+machine learning
+
+numpy
+pandas
+scikit-learn
+tensowflow
+
+-industries
+-hospitals
+-drones
+
+*web scraping
+extract large data from websites
+
+    Research and Development Purposes
+    Price Comparisons
+    Email Address Gathering
+    Job Listing
+    Social Media Scraping
+
+beautifulsoup
+selenium, pandas
+
+usually stored in local storage / database
+
+* tracking crytocurrencies
+predict market
+
+
+* chatbots
+provide customer service experience
+automated customer assitance service
+natural processing Language - NLTK, Spacy
+
+* file management
+
+* data mining
+data science and statistics
+
+* send automated email and text messages
+
+* updated excel sheets automatically
+openpyexcel
+
+* fill online forms
+
+
+
